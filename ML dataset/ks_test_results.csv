@@ -1,0 +1,22 @@
+feature,ks_statistic,p_value,conclusion
+baseline value,0.09501411100658513,9.017017353122534e-09,Different distribution
+accelerations,0.24553151458137348,1.1992214004670684e-56,Different distribution
+fetal_movement,0.16839134524929444,1.0024609825857083e-26,Different distribution
+uterine_contractions,0.15663217309501412,3.6368379751304316e-23,Different distribution
+light_decelerations,0.040921919096895576,0.056855692418096127,Same distribution
+severe_decelerations,0.010818438381937912,0.9996518544594383,Same distribution
+prolongued_decelerations,0.1349952963311383,2.6753929597219216e-17,Different distribution
+abnormal_short_term_variability,0.2742238946378175,9.744662178896488e-71,Different distribution
+mean_value_of_short_term_variability,0.21025399811853246,1.5421975941713327e-41,Different distribution
+percentage_of_time_with_abnormal_long_term_variability,0.18203198494825965,3.4884414179707014e-31,Different distribution
+mean_value_of_long_term_variability,0.1147695202257761,1.3037309076610434e-12,Different distribution
+histogram_width,0.11994355597365945,9.749483580702422e-14,Different distribution
+histogram_min,0.12323612417685795,1.7627891075208485e-14,Different distribution
+histogram_max,0.051269990592662275,0.007473312821777983,Different distribution
+histogram_number_of_peaks,0.08560677328316087,3.3716458608803345e-07,Different distribution
+histogram_number_of_zeroes,0.061618062088428974,0.0006223344305304576,Different distribution
+histogram_mode,0.09078080903104421,4.8216874941959394e-08,Different distribution
+histogram_mean,0.11947318908748825,1.240038483207931e-13,Different distribution
+histogram_median,0.10301034807149577,3.0802109710893e-10,Different distribution
+histogram_variance,0.14346190028222014,1.7253657143651636e-19,Different distribution
+histogram_tendency,0.08984007525870179,6.925893361331058e-08,Different distribution
